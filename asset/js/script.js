@@ -27,5 +27,5 @@ btnCopy.onclick = function(evt)
 {
   let msj = document.getElementById('textMsj').value;
   document.getElementById('showMsj').innerText = msj;
-  } 
+} 
   
