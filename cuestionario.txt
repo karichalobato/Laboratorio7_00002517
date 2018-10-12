@@ -1,0 +1,28 @@
+2-¿Qué es lo que tiene la variable container?
+R/ contiene el elemento HTML con id = "c1"
+
+3-Modifique el valor de propiedad innerText y guarde la cadena de texto "¡hola mundo!"
+R/ Me aparece la frase "hola mundo"
+
+7-¿Qué es lo que se muestra en pantalla?
+R/Me muestra una caja de texto donde antes me aparecia la frase "hola mundo"
+¿Cuál es la diferencia entre las propiedades innerHTML e innerText
+R/ el innerText contiene el texto plano y el innerHTML contiene las etiquetas
+
+**************************************SEGUNDA PARTE************************************************
+1-¿Qué almacena containers?
+R/ contiene los elemento HTML con el id = "c2"
+
+2-¿Qué se mostrará en pantalla?
+R/
+
+3-¿Qué se mostrará en pantalla?
+R/
+¿Cuál es la diferencia entre las propiedas innerText e innerHTML?
+R/
+
+*****************************TERCERA PARTE ****************************************
+4-¿Qué es lo que sucedera después de darle click al botón?
+R/
+¿Cuál es la difernecia entre value e innerText?
+R/
